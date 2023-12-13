@@ -1,0 +1,15 @@
+{
+  "name": "api-de-rick-morty",
+  "version": "1.0.0",
+  "description": "Parcial 3 DAM",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Anderson Castro",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
